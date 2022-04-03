@@ -235,10 +235,11 @@ let filtered = arr.filter((x) => x > 100);
 
 </div>
 
-<!-- I won't go too details about ES6, there are much more about it you can find online
+<!--
+I won't go too details about ES6, there are much more about it you can find online
   I'll go through the biggest change and particularly focusing on 'Data parsing'
   This is important because we need ES6 to start exploring on React
- -->
+-->
 
 ---
 layout: center
@@ -248,4 +249,3 @@ class: text-center
 # Live Coding!
 
 [Click me to enter CodeSandbox 💻](https://codesandbox.io/s/frontend101-9vyj6)
-
