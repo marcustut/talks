@@ -408,6 +408,23 @@ layout: center
 class: text-center
 ---
 
+# Build your first React App!
+
+<p v-click class="opacity-80">Theory is nothing, let's experience it by building one ourselves!</p>
+
+<a v-click href="https://codesandbox.io/s/react-workshop-app-e02o2y?file=/src/App.js" target="_blank">Link to CodeSandbox</a>
+
+<style>
+  h1 {
+    @apply text-neutral-200;
+  }
+</style>
+
+---
+layout: center
+class: text-center
+---
+
 # Thanks for joining!
 
 Feel free to reach out if you need any help 👇🏼
